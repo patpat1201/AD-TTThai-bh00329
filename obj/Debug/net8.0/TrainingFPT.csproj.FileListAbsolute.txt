@@ -1,0 +1,423 @@
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\appsettings.Development.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\appsettings.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.staticwebassets.runtime.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.exe
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.deps.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.runtimeconfig.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\TrainingFPT.pdb
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfoInputs.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfo.cs
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CoreCompileInputs.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.MvcApplicationPartsAssemblyInfo.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cs
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets.build.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets.development.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPT.props
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPT.props
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPT.props
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\staticwebassets.pack.json
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\scopedcss\bundle\TrainingFPT.styles.css
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPT.bundle.scp.css
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\refint\TrainingFPT.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.pdb
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.genruntimeconfig.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\ref\TrainingFPT.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Azure.Core.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Azure.Identity.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Humanizer.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.CodeDom.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Memory.Data.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.AssemblyReference.cache
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CopyComplete
+C:\setup\CSharp\TrainingFPT\TrainingFPT\obj\Debug\net8.0\TrainingFPT.sourcelink.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\appsettings.Development.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\appsettings.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.staticwebassets.runtime.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.exe
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.deps.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.runtimeconfig.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.pdb
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Azure.Core.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Azure.Identity.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Humanizer.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.CodeDom.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Memory.Data.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.AssemblyReference.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.GeneratedMSBuildEditorConfig.editorconfig
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfoInputs.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfo.cs
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CoreCompileInputs.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.MvcApplicationPartsAssemblyInfo.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cs
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.sourcelink.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.build.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.development.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPT.props
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPT.props
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPT.props
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.pack.json
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\bundle\TrainingFPT.styles.css
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPT.bundle.scp.css
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CopyComplete
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\refint\TrainingFPT.dll
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.pdb
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.genruntimeconfig.cache
+E:\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\ref\TrainingFPT.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.staticwebassets.runtime.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.exe
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.deps.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.runtimeconfig.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\TrainingFPT.pdb
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Humanizer.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfo.cs
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.sourcelink.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.TrainingFPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainingFPT.props
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainingFPT.props
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainingFPT.props
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\bundle\TrainingFPT.styles.css
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\scopedcss\projectbundle\TrainingFPT.bundle.scp.css
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CopyComplete
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\refint\TrainingFPT.dll
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.pdb
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.genruntimeconfig.cache
+C:\Users\admin\Desktop\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\ref\TrainingFPT.dll
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.AssemblyInfo.cs
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.sourcelink.json
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.dll
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\refint\TrainingFPT.dll
+C:\Users\admin\Desktop\oaksdasd\AD-IT0503-ASP-MVC (1)\AD-IT0503-ASP-MVC\TrainingFPT\obj\Debug\net8.0\TrainingFPT.pdb
