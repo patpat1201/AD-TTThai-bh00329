@@ -4566,11 +4566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\oaksdasd\\AD-IT0503-ASP-MVC (1)\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\music_store\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
       "projectName": "TrainingFPT",
-      "projectPath": "C:\\Users\\admin\\Desktop\\oaksdasd\\AD-IT0503-ASP-MVC (1)\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\music_store\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\oaksdasd\\AD-IT0503-ASP-MVC (1)\\AD-IT0503-ASP-MVC\\TrainingFPT\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\music_store\\AD-IT0503-ASP-MVC\\TrainingFPT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "adZ5mbnijjjo6tml6iR/KZ5UVF2SajJL+FSom5GaDnAvNIoH8fQlDnP0cuLLV8WDeP7JBPAD/WHQ/AriHUqLLA==",
+  "dgSpecHash": "xHOAHPvumy1A+5aA2/ehgbaN5Ut5SENBwUP8VFS0rqNPqL7oeEZzqnrOV/ua4RhWFQ7PaXZ0dm3oienDRI9nbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\oaksdasd\\AD-IT0503-ASP-MVC (1)\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\music_store\\AD-IT0503-ASP-MVC\\TrainingFPT\\TrainingFPT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
